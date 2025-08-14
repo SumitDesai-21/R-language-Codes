@@ -1,4 +1,4 @@
-# Probablitiy And Statistics Lab (R language)
+# Probability And Statistics Lab (R language)
 
 This repository contains my R programming assignments, probability exercises, and statistics practicals completed during the second semester of Computer Engineering at COEP Technological University.
 
