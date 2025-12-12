@@ -25,11 +25,10 @@ This lab focused on building foundational skills in statistical computing using 
 
 - R version 4.4.3
 - RStudio
----
 
 _This repository is part of my academic journey and reflects early steps into data analysis and statistical thinking._
 
-## About the Author
+### About the Author
  - **LinkedIn**: [Sumit Desai](https://linkedin.com/in/sumit-v-d-3b6a9632a)
  - **GitHub**: [Sumit Desai](https://github.com/SumitDesai-21)
  
